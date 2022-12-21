@@ -1,0 +1,29 @@
+   
+
+  h1{
+    color: white;
+    font-size: 150px;
+    text-align: center;
+    padding-top: 450px;
+    margin-top: 0px;
+    background-image: url(../apple-pie.jpg);
+    background-size: cover;
+    height: 700px;
+}
+
+.mydiv{
+    margin:auto 300px;  text-align: center;
+padding: 75px 75px;
+    font-size: 50px ;
+}
+.RA{
+    margin-left: 800px;
+    margin-bottom: 100px;
+    height: 200px;
+
+  }
+  .LA{
+    text-align: left;
+    padding: 75px;
+    margin: auto 300px;
+  }
